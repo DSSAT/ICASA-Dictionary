@@ -492,16 +492,6 @@
 "litter_N_struct_by_layer","STNSLD","STNSLD",106,,"Litter N, structural  a soil layer","g/Mg","single","EXPERIMENT","MEASURED_DATA","TIME_SERIES","SOIL_LAYERS",2515,,".",,,0,,1220
 "litter_P_soil_by_layer","LPSLD","LPSLD",107,,"Litter P - soil a soil layer","g/Mg","single","EXPERIMENT","MEASURED_DATA","TIME_SERIES","SOIL_LAYERS",2515,,".",,,0,,1221
 "litter_P_metabol_by_lyr","MEPSLD","MEPSLD",108,,"Litter P, metabolic a soil layer","g/Mg","single","EXPERIMENT","MEASURED_DATA","TIME_SERIES","SOIL_LAYERS",2515,,".",,,0,,1222
-"soil_temperature_0_5","TS1D","TS1D",31,,"Soil temperature, 0-5 cm","degree_C","single","EXPERIMENT","MEASURED_DATA","TIME_SERIES","SOIL_LAYERS",2515,"2020-10-05, chp",".",,,,,1223
-"soil_temperature_5_15","TS2D","TS2D",32,,"Soil temperature, 5-15 cm","degree_C","single","EXPERIMENT","MEASURED_DATA","TIME_SERIES","SOIL_LAYERS",2515,"2020-10-05, chp",".",,,,,1224
-"soil_temperature_15_30","TS3D","TS3D",33,,"Soil temperature, 15-30 cm","degree_C","single","EXPERIMENT","MEASURED_DATA","TIME_SERIES","SOIL_LAYERS",2515,"2020-10-05, chp",".",,,,,1225
-"soil_temperature_30_45","TS4D","TS4D",34,,"Soil temperature, 30-45 cm","degree_C","single","EXPERIMENT","MEASURED_DATA","TIME_SERIES","SOIL_LAYERS",2515,"2020-10-05, chp",".",,,,,1226
-"soil_temperature_45_60","TS5D","TS5D",35,,"Soil temperature, 45-60 cm","degree_C","single","EXPERIMENT","MEASURED_DATA","TIME_SERIES","SOIL_LAYERS",2515,"2020-10-05, chp",".",,,,,1227
-"soil_temperature_60_90","TS6D","TS6D",36,,"Soil temperature, 60-90 cm","degree_C","single","EXPERIMENT","MEASURED_DATA","TIME_SERIES","SOIL_LAYERS",2515,"2020-10-05, chp",".",,,,,1228
-"soil_temperature_90_120","TS7D","TS7D",37,,"Soil temperature, 90-120 cm","degree_C","single","EXPERIMENT","MEASURED_DATA","TIME_SERIES","SOIL_LAYERS",2515,"2020-10-05, chp",".",,,,,1229
-"soil_temperature_120_150","TS8D","TS8D",38,,"Soil temperature, 120-150 cm","degree_C","single","EXPERIMENT","MEASURED_DATA","TIME_SERIES","SOIL_LAYERS",2515,"2020-10-05, chp",".",,,,,1230
-"soil_temperature_150_180","TS9D","TS9D",39,,"Soil temperature, 150-180 cm","degree_C","single","EXPERIMENT","MEASURED_DATA","TIME_SERIES","SOIL_LAYERS",2515,"2020-10-05, chp",".",,,,,1231
-"soil_temperature_180_210","TS10D","TS10D",40,,"Soil temperature, 180-210 cm","degree_C","single","EXPERIMENT","MEASURED_DATA","TIME_SERIES","SOIL_LAYERS",2515,"2020-10-05, chp","TS10",,,,,1232
 "NH3_volatilization_cum","AMLC","AMLC",,,"NH3 N volatilization, cumulative","kg/ha","single","EXPERIMENT","MEASURED_DATA","TIME_SERIES","SOIL_NITROGEN",2521,,".",,,0,,1233
 "litter_N_on_surface","LN0D","LN0D",,,"Litter N on surface","kg/ha","single","EXPERIMENT","MEASURED_DATA","TIME_SERIES","SOIL_NITROGEN",2521,,".",,,0,,1234
 "litter_Nal","LNTD","LNTD",,,"Litter N,total","kg/ha","single","EXPERIMENT","MEASURED_DATA","TIME_SERIES","SOIL_NITROGEN",2521,,".",,,0,,1235
