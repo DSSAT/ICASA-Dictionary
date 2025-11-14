@@ -492,6 +492,7 @@
 "litter_N_struct_by_layer","STNSLD","STNSLD",106,,"Litter N, structural  a soil layer","g/Mg","single","EXPERIMENT","MEASURED_DATA","TIME_SERIES","SOIL_LAYERS",2515,,".",,,0,,1220
 "litter_P_soil_by_layer","LPSLD","LPSLD",107,,"Litter P - soil a soil layer","g/Mg","single","EXPERIMENT","MEASURED_DATA","TIME_SERIES","SOIL_LAYERS",2515,,".",,,0,,1221
 "litter_P_metabol_by_lyr","MEPSLD","MEPSLD",108,,"Litter P, metabolic a soil layer","g/Mg","single","EXPERIMENT","MEASURED_DATA","TIME_SERIES","SOIL_LAYERS",2515,,".",,,0,,1222
+"soil_temperature_by_lyr","TMPSLD","TMPSLD",31,,"Soil temperature of given soil layer","degree_C","single","EXPERIMENT","MEASURED_DATA","TIME_SERIES","SOIL_LAYERS",2515,,".",,,0,,1394
 "NH3_volatilization_cum","AMLC","AMLC",,,"NH3 N volatilization, cumulative","kg/ha","single","EXPERIMENT","MEASURED_DATA","TIME_SERIES","SOIL_NITROGEN",2521,,".",,,0,,1233
 "litter_N_on_surface","LN0D","LN0D",,,"Litter N on surface","kg/ha","single","EXPERIMENT","MEASURED_DATA","TIME_SERIES","SOIL_NITROGEN",2521,,".",,,0,,1234
 "litter_Nal","LNTD","LNTD",,,"Litter N,total","kg/ha","single","EXPERIMENT","MEASURED_DATA","TIME_SERIES","SOIL_NITROGEN",2521,,".",,,0,,1235
