@@ -80,7 +80,7 @@
 "fiber_length","FILEN","FILEN",,,"Fiber length","cm","single","EXPERIMENT","MEASURED_DATA","SUMMARY","SM_GROWTH",2503,"2021-05-03, CHP",,,,0,,808
 "fiber_uniformity","FIBUI","FIBUI",,,"Fiber uniformity index, ratio between the mean length and the upper half mean length of fibers","%","single","EXPERIMENT","MEASURED_DATA","SUMMARY","SM_GROWTH",2503,"2021-05-03, CHP",,,,0,100,809
 "fiber_strength","FISTR","FISTR",,,"Fiber strength","g[force]/tex","single","EXPERIMENT","MEASURED_DATA","SUMMARY","SM_GROWTH",2503,"2021-05-03, CHP",,,,0,,810
-"fiber_micronaire","FIMIC","FIMIC",,,"Fiber micronaire, measure of the air permeability of compressed cotton fibers fiber, an indication of fineness and maturity","unitless","single","EXPERIMENT","MEASURED_DATA","SUMMARY","SM_GROWTH",2503,"2021-05-03, CHP",,,,2.5,6,811
+"fiber_micronaire","FIMIC","FIMIC",,,"Fiber micronaire, measure of the air permeability of compressed cotton fibers, which indicates fineness and maturity","unitless","single","EXPERIMENT","MEASURED_DATA","SUMMARY","SM_GROWTH",2503,"2021-05-03, CHP",,,,2.5,6,811
 "fiber_color_grade_Rd","FICRD","FICRD",,,"Fiber color grade, HVI Rd reflectance","unitless","single","EXPERIMENT","MEASURED_DATA","SUMMARY","SM_GROWTH",2503,"2021-05-03, CHP",,,,,,812
 "fiber_color_grade_B","FICPB","FICPB",,,"Fiber color grade, HVI +B yellowness","unitless","single","EXPERIMENT","MEASURED_DATA","SUMMARY","SM_GROWTH",2503,"2021-05-03, CHP",,,,,,813
 "fiber_HVI_trash","FITRS","FITRS",,,"Percent of fiber surface area occupied by trash particles","%","single","EXPERIMENT","MEASURED_DATA","SUMMARY","SM_GROWTH",2503,"2021-05-03, CHP",,,,0,100,814
